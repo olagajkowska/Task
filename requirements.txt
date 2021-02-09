@@ -1,0 +1,6 @@
+matplotlib
+numpy
+re
+os
+pandas
+click
